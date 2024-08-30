@@ -7,4 +7,4 @@ My github username is:
 
 MB-Game-Design
 
-BL-MSCH-C220
+I have installed the software on my computer as a part of this exercise
