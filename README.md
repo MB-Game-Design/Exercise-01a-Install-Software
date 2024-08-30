@@ -1,10 +1,10 @@
 # Exercise-01a-Install-Software
 My name is:
 
-[Your Name]
+Max Bailey (I prefer to go by Mars)
 
 My github username is:
 
-[Your Username]
+MB-Game-Design
 
 BL-MSCH-C220
